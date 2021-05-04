@@ -1,4 +1,4 @@
-from lxml import html, etree
+# from lxml import html, etree
 import requests
 
 
@@ -33,6 +33,6 @@ def downloadfile(name,url):
     print("Done")
     f.close()
 
-name = input("What is the video name: ")
+name = (f'videos/{input("Video Name: ")}')
 
 downloadfile(name, video)
