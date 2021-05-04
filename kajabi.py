@@ -10,16 +10,22 @@ video_id = wistia[109:119]
 
 # Generate link from video ID
 webpageLink = (f"https://fast.wistia.net/embed/iframe/{video_id}?videoFoam=true")
+# print(webpageLink)
 
 # Get page source of link
 page = requests.get(webpageLink)
 page_source = page.text
 
 # Find video link 
-first = page_source.find('"progress":1.0,"url":"')
-last = page_source.find(".bin")
+first = (page_source.find('"url":"')+7)
+last = page_source.find('.bin","created_at"')
 
-video = (f"{page_source[first+22:last]}")
+# print(first)
+# print(last)
+video = (f"{page_source[first:last]}")
+
+# print(video)
+# video = (f"{page_source[first+22:last]}")
 
 def downloadfile(name,url):
     name=(name+".mp4")
