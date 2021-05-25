@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!-- Start of alignedmastery Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=c440397d-38ef-4764-bb92-d5e9552d0a0b"> </script>
+<!-- End of alignedmastery Zendesk Widget script --><head>
+
+    <!-- Title and description ================================================== -->
+    
+              <meta name="csrf-param" content="authenticity_token">
+              <meta name="csrf-token" content="f0dO9e6/YHkcYZ+S6W0C8ctC0PaJ0ZeGKa06l8DAb4v0p9azZuoKQ9z8+CxTe0JalN+2PJCWoLMGc4mMl20aWA==">
+            
+    <title>
+      
+        Dr. Alok Trivedi
+      
+    </title>
+    <meta charset="utf-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+
+    <!-- Helpers ================================================== -->
+    
+    <link href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/816099/assets/favicon.png?16183573338219972?v=2" rel="shortcut icon" />
+    <link rel="canonical" href="https://dr-alok-trivedi.mykajabi.com/products/life-vault/categories/1141571" />
+
+    <!-- CSS ================================================== -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+      <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic|Montserrat:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    
+    <link rel="stylesheet" media="screen" href="https://kajabi-app-assets.kajabi-cdn.com/assets/core-f726e70c2cc061a3a1328f0d0554ca2db2ae685b27b368b07c3c6d5d819e1c8b.css" />
+    <link rel="stylesheet" media="screen" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/816099/assets/styles.css?16183573338219972" />
+    <link rel="stylesheet" media="screen" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/816099/assets/overrides.css?16183573338219972" />
+
+    
+
+    <!-- Optional Background Image ======================================== -->
+    
+      <style>
+        .section--global {
+          background: #f9f9f9;
+        }
+      </style>
+    
+
+    
+
+    <!-- Header hook ================================================== -->
+    <script type="text/javascript">
+  var Kajabi = Kajabi || {};
+</script>
+<script type="text/javascript">
+  Kajabi.currentSiteUser = {
+    "id" : "7955763",
+    "type" : "Member"
+  };
+</script>
+<script type="text/javascript">
+  Kajabi.theme = {
+    activeThemeName: "Premier Product",
+    previewThemeId: null,
+    editor: false
+  };
+</script>
+<style type="text/css">
+  #editor-overlay {
+    display: none;
+    border-color: #2E91FC;
+    position: absolute;
+    background-color: rgba(46,145,252,0.05);
+    border-style: dashed;
+    border-width: 3px;
+    border-radius: 3px;
+    pointer-events: none;
+    cursor: pointer;
+    z-index: 10000000000;
+  }
+  .editor-overlay-button {
+    color: white;
+    background: #2E91FC;
+    border-radius: 2px;
+    font-size: 13px;
+    margin-left: -24px;
+    margin-top: -12px;
+    padding: 3px 10px;
+    text-transform:uppercase;
+    font-weight:bold;
+    letter-spacing:1.5px;
+
+    left: 50%;
+    top: 50%;
+    position: absolute;
+  }
+</style>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.agent='plkajabi';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                                                                      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '134373933705316', {"ct":null,"country":null,"em":"migvenzor@gmail.com","fn":"Miguel","ln":"Venzor","pn":null,"zp":null});
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=134373933705316&ev=PageView&noscript=1"
+/></noscript>
+
+  </head>
+  <body>
+    <div class="container container--main">
+      <div class="content-wrap">
+        <div class="section-wrap section-wrap--top">
+          <div id="section-header" data-section-id="header"><!-- Header Variables -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- KJB Settings Variables -->
+
+
+
+
+
+
+<style>
+  .header {
+    background: #fff;
+  }
+  
+  .header .logo--text, .header--left .header-menu a {
+    line-height: 40px;
+  }
+  .header .logo--image {
+    height: 40px;
+  }
+  .header .logo img {
+    max-height: 40px;
+  }
+  /*============================================================================
+    #Header Responsive Styles
+  ==============================================================================*/
+  @media (max-width: 767px) {
+    .header .logo--text {
+      line-height: 40px;
+    }
+    .header .logo--image {
+      max-height: 40px;
+    }
+    .header .logo img {
+      max-height: 40px;
+    }
+    .header .header-ham {
+      top: 20px;
+    }
+  }
+</style>
+
+
+  <!-- Announcement Variables -->
+
+
+
+
+
+
+<!-- KJB Settings Variables -->
+
+
+<style>
+  .announcement {
+    background: #1abc9c;
+    color: #fff;
+  }
+  a.announcement:hover {
+    color: #fff;
+  }
+</style>
+
+
+
+  <div class="header header--light header--left" kjb-settings-id="sections_header_settings_background_color">
+    <div class="container">
+      
+        
+          <a href="/products/life-vault" class="logo logo--image">
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/816099/settings_images/qFjPR4gxQpyTYdRKY9sA_API_LOGO_primary_color.png" kjb-settings-id="sections_header_settings_logo"/>
+          </a>
+        
+      
+      
+        <div class="header-ham">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      
+      <div kjb-settings-id="sections_header_settings_menu" class="header-menu">
+        
+          
+            <a href="https://dr-alok-trivedi.mykajabi.com/library">My Library</a>
+          
+            <a href="https://dr-alok-trivedi.mykajabi.com/login">LOGIN</a>
+          
+        
+        <a class="search__toggle" kjb-settings-id="sections_header_settings_search_toggle">SEARCH</a>
+        
+        <!-- User Dropdown Variables -->
+
+
+
+
+
+
+
+
+
+<!-- KJB Settings Variables -->
+
+
+
+
+
+<style>
+  /*============================================================================
+    #Header User Menu Styles
+  ==============================================================================*/
+  .header .user__dropdown {
+    background: #fff;
+    top: 71px;
+  }
+  .header--center .user__dropdown {
+    top: 50px;
+  }
+  
+</style>
+
+
+  <span class="user">
+    <img class="user__avatar" src="https://www.gravatar.com/avatar/53a9a853009609e023ddeb0d9bd797a0?s=42&d=https://s3.amazonaws.com/kajabi-storefronts-production/static_assets/default_avatar.jpg"/>
+    <div class="user__dropdown user__dropdown--light">
+      <a href="/library" kjb-settings-id="sections_header_settings_language_library">My Library</a>
+      <span kjb-settings-id="sections_header_settings_language_settings"><a href="/settings/account">Settings</a></span>
+      <span kjb-settings-id="sections_header_settings_language_logout"><a data-method="delete" href="/logout">Logout</a></span>
+    </div>
+  </span>
+
+
+      </div>
+    </div>
+  </div>
+
+
+</div>
+          <div id="section-search" data-section-id="search">
+
+
+
+
+
+
+<style>
+  .section--search {
+    /*============================================================================
+      #Background Color Override
+    ==============================================================================*/
+    background: #e67e22;
+    
+      /*============================================================================
+        #Text Color Override
+      ==============================================================================*/
+      color: #ffffff;
+    
+  }
+  .section--link_list.section--dark.section--search a, .section--link_list.section--light.section--search a, .section--blog_posts.section--dark.section--search a, .section--blog_posts.section--light.section--search a, .section--feature.section--dark.section--search a, .section--feature.section--light.section--search a {
+    
+      /*============================================================================
+        #Text Color Override
+      ==============================================================================*/
+      color: #ffffff;
+    
+  }
+</style>
+
+
+<style>
+  .section--search ::-webkit-input-placeholder {
+    color: #ffffff;
+  }
+  .section--search ::-moz-placeholder {
+    color: #ffffff;
+  }
+  .section--search :-ms-input-placeholder {
+    color: #ffffff;
+  }
+  .section--search :-moz-placeholder {
+    color: #ffffff;
+  }
+  .section--search .search__icon {
+    color: #ffffff;
+  }
+  .section--search .search__input {
+    color: #ffffff;
+  }
+</style>
+
+
+  <div class="section section--search section--middle section--light section--search" kjb-settings-id="sections_search_settings_background_color">
+    <div class="container">
+      <form action="/products/life-vault/search" method="get" role="search">
+        <div class="input-group search">
+          <span class="input-group-addon search__icon"><i class="fa fa-search"></i></span>
+          <input class="form-control search__input" type="search" name="q" placeholder="Search here..." kjb-settings-id="sections_search_settings_search_text">
+          <span class="input-group-addon search__icon search__icon--close"><i class="fa fa-times" aria-hidden="true"></i></span>
+        </div>
+      </form>
+    </div>
+  </div>
+
+
+</div>
+          <div id="" class="section section--global section--category">
+  <div class="container">
+    <div class="row">
+      <div id="section-breadcrumbs" data-section-id="breadcrumbs">
+  
+  
+  <style>
+    .breadcrumbs__crumb {
+      color: #111;
+    }
+    .breadcrumbs__crumb a, .breadcrumbs__crumb--divider {
+      color: #666;
+    }
+  </style>
+
+  <div class="col-sm-12">
+    <div class="breadcrumbs" kjb-settings-id="sections_breadcrumbs_settings_color">
+      <div class="breadcrumbs__crumb">
+        <a href="/products/life-vault">LIFE VAULT</a>
+      </div>
+      <div class="breadcrumbs__crumb breadcrumbs__crumb--divider" kjb-settings-id="sections_breadcrumbs_settings_divider">
+        /
+      </div>
+      
+        <div class="breadcrumbs__crumb" kjb-settings-id="sections_breadcrumbs_settings_categories">
+          <a href="/products/life-vault/categories">Modules</a>
+        </div>
+        <div class="breadcrumbs__crumb breadcrumbs__crumb--divider" kjb-settings-id="sections_breadcrumbs_settings_divider">
+          /
+        </div>
+        <div class="breadcrumbs__crumb">
+          Self Mastery 
+        </div>
+      
+      <span class="player--none__nav">
+        
+          <a disabled href="#">
+            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+          </a>
+        
+        
+          <a disabled href="#">
+            
+            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+          </a>
+        
+      </span>
+    </div>
+  </div>
+
+
+</div>
+    </div>
+    <div class="row section__row">
+      <div class="section__body col-lg-8">
+        <div id="section-category_body" data-section-id="category_body"><div class="panel syllabus">
+  <div class="panel__body">
+    <h5 class="syllabus__heading">
+      Self Mastery 
+      
+    </h5>
+    
+      
+        
+          
+
+<div class="syllabus__item" id="post-3831784">
+  <a href="/products/life-vault/categories/1141571/posts/3831784">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/192181/images/7Fnd1MMzSwKK1P3zhnfA_d5ca713009cab049ed606de1996803eb.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Fair Exchange within your value structure</p>
+        <p class="syllabus__text">Topics Covered:&nbsp;Failing, give &amp; receive, narcissism &amp; altruism, values, false preten...</p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+    <div class="progress__icon">
+      <i class="fa fa-check"></i>
+    </div>
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-3831786">
+  <a href="/products/life-vault/categories/1141571/posts/3831786">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/192181/images/3PaCbFz4Qya0ZsCy3hPs_file.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Assignment - Fair Exchange in your highest values</p>
+        <p class="syllabus__text">Topics Covered: fair exchange, highest values, expectations</p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+    <div class="progress__icon">
+      <i class="fa fa-check"></i>
+    </div>
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-4865609">
+  <a href="/products/life-vault/categories/1141571/posts/4865609">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/192181/images/9F6uFrwpTWCJgqN7uLph_5a1c9e9eeb6413af4ac086b02854bc20.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Success=Fulfillment </p>
+        <p class="syllabus__text">Topics Covered:&nbsp;emotion, mission, goal, mile markers, integration, leadership, fair exchange...</p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+    <div class="progress__icon">
+      <i class="fa fa-check"></i>
+    </div>
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-13302304">
+  <a href="/products/life-vault/categories/1141571/posts/13302304">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/7835/products/tYfkUMprSmZZzR3iJv8s_file.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Assignment - Success and Fulfillment</p>
+        <p class="syllabus__text"></p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+    <div class="progress__icon">
+      <i class="fa fa-check"></i>
+    </div>
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-5172291">
+  <a href="/products/life-vault/categories/1141571/posts/5172291">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/192181/images/bUCnaaPScWhQaYTGdN0O_4c31d3485589a1b68eba057dd734928a.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Entanglement & Chaos Part 1</p>
+        <p class="syllabus__text">Topics Covered:&nbsp;experience, physics, bonds, opposite, Law of Attraction &amp; Repulsion, cha...</p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+    <div class="progress__icon">
+      <i class="fa fa-check"></i>
+    </div>
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-7628460">
+  <a href="/products/life-vault/categories/1141571/posts/7628460">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/192181/images/s44DklLhSMaDDdMJRBWE_079a404df9b0e3d7336c1c3d3c732e21.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Entanglement & Chaos Part 2</p>
+        <p class="syllabus__text">Topics Covered:&nbsp;intuition, magnetism, perceptions, consciousness, awareness, seeing both sid...</p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+    <div class="progress__icon">
+      <i class="fa fa-check"></i>
+    </div>
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-13302550">
+  <a href="/products/life-vault/categories/1141571/posts/13302550">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/7835/products/FDQ3NXEARqGgV9YwY1Qv_file.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Assignment - Entanglement and Chaos</p>
+        <p class="syllabus__text"></p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-10277705">
+  <a href="/products/life-vault/categories/1141571/posts/10277705">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/7835/products/HZVVn3fPSnxiDlGWZ8fQ_fb68e026b5b5b6f7919198adcb427d1a.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Entanglement & Chaos Part 3</p>
+        <p class="syllabus__text">Topics Covered:&nbsp;entanglement, love, and gratitude, fission, birthing light.
+===back to Q&am...</p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-7712591">
+  <a href="/products/life-vault/categories/1141571/posts/7712591">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/products/192181/images/9Eq7BDv8ToW2uAWU4QPv_208313aa3038d91fa1c9535526bc7d9c.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Collective Consciousness</p>
+        <p class="syllabus__text">Topics Covered:&nbsp;Entropy, chaos, instinct, negentropy, mirror neurons, reflections, frequency...</p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+          
+
+<div class="syllabus__item" id="post-13633195">
+  <a href="/products/life-vault/categories/1141571/posts/13633195">
+
+    <div class="media">
+      <div class="media-left">
+        <div class="syllabus__img">
+          
+            <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/7835/products/8xghxN3vRmzyGZuQXb7g_file.jpg" class="thumb" />
+          
+        </div>
+      </div>
+      <div class="media-body media-middle">
+        <p class="syllabus__title">Assignment - Collective Consciousness</p>
+        <p class="syllabus__text"></p>
+      </div>
+      <div class="media-right media-middle">
+        <div class="progress">
+  
+</div>
+
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+        
+          <div class="pag">
+  <div class="pag__cell pag__cell--prev">
+    
+      <p class="pag__link pagination__link--prev pag__link--disabled">
+        <i class="fa fa-chevron-left"></i>
+      </p>
+    
+  </div>
+  
+    <div class="pag__cell pag__cell--pages">
+      
+        
+          <a class="pag__link pag__link--current" href="?page=1">1</a>
+        
+      
+        
+          <a class="pag__link" href="?page=2">2</a>
+        
+      
+        
+          <a class="pag__link" href="?page=3">3</a>
+        
+      
+        
+          <a class="pag__link" href="?page=4">4</a>
+        
+      
+        
+          <a class="pag__link" href="?page=5">5</a>
+        
+      
+    </div>
+  
+  <div class="pag__cell pag__cell--next">
+    
+      <a class="pag__link pag__link--next" href="?page=2">
+        <i class="fa fa-chevron-right"></i>
+      </a>
+    
+  </div>
+</div>
+
+        
+      
+      
+    
+  </div>
+</div>
+
+</div>
+      </div>
+      <div id="section-product_sidebar" data-section-id="product_sidebar">
+  <div class="section__sidebar col-lg-4">
+    
+      
+          
+
+
+
+
+<style>
+  .panel--1481845660636 {
+    /*============================================================================
+      #Background Color Override
+    ==============================================================================*/
+    background: #fff;
+    
+  }
+</style>
+
+
+<style>
+  .panel--1481845660636 .instructor__title {
+    color: ;
+  }
+</style>
+
+<div class="panel panel--1481845660636 instructor" kjb-settings-id="sections_product_sidebar_blocks_1481845660636_settings_heading">
+  <div class="panel__body">
+    
+      <h6 class="panel__heading" kjb-settings-id="sections_product_sidebar_blocks_1481845660636_settings_heading">Mentor</h6>
+    
+    <div class="media">
+      
+        <div class="media-left">
+          <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/816099/settings_images/BU9hvuC7SUWWedcBSZRs_file.jpg" class="img-circle instructor__image" kjb-settings-id="sections_product_sidebar_blocks_1481845660636_settings_image"/>
+        </div>
+      
+      <div class="media-body media-middle">
+        <p class="instructor__name" kjb-settings-id="sections_product_sidebar_blocks_1481845660636_settings_name">Dr. Alok Trivedi</p>
+        <p class="instructor__title" kjb-settings-id="sections_product_sidebar_blocks_1481845660636_settings_title">Author and President/CEO of Aligned Performance Institute</p>
+      </div>
+    </div>
+    <p class="panel__copy" kjb-settings-id="sections_product_sidebar_blocks_1481845660636_settings_bio">Author of the book, Chasing Success: Lessons in Aligned Performance. Featured on CBS, Fox News, CTV News Canada, FHM, Global News and many more.</p>
+  </div>
+</div>
+
+        
+    
+      
+          
+
+
+
+
+<style>
+  .panel--1515001612464 {
+    /*============================================================================
+      #Background Color Override
+    ==============================================================================*/
+    background: #fff;
+    
+  }
+</style>
+
+
+<style>
+  .panel--1515001612464 img {
+    margin: 0 0 0 0;
+  }
+  .panel--1515001612464 .btn {
+    margin: 0 0 0 0;
+  }
+</style>
+
+<div class="panel panel--light panel--1515001612464" style="text-align: left" kjb-settings-id="sections_product_sidebar_blocks_1515001612464_settings_background_color">
+  
+  <div class="panel__body">
+    
+      <h6 class="panel__heading" kjb-settings-id="sections_product_sidebar_blocks_1515001612464_settings_heading">Q&A Call Details</h6>
+    
+    <div class="panel__copy" kjb-settings-id="sections_product_sidebar_blocks_1515001612464_settings_content"><p><span style="color: #000000;"><strong>Aligned Mastery Q&amp;A Call:</strong>&nbsp;12:30 pm CST Tuesdays&nbsp;<a href="https://zoom.us/j/633705810" target="_blank" rel="noopener noreferrer">https://zoom.us/j/633705810</a></span></p>
+<p><span style="color: #000000;">Password: am (lower case)</span></p>
+<p><span style="color: #000000;">Enter your questions for the Q&amp;A calls here by <a title="CLICKING HERE" href="https://alignedperformance.wufoo.com/forms/z4taf950m3qdpb/" target="_blank" rel="noopener noreferrer"><strong>CLICKING HERE</strong></a></span></p>
+<p><span style="color: #000000;">*Any changes will be posted on Telegram and in the Facebook groups.</span></p></div>
+    
+  </div>
+</div>
+
+        
+    
+      
+          
+
+
+
+
+<style>
+  .panel--1594829074706 {
+    /*============================================================================
+      #Background Color Override
+    ==============================================================================*/
+    background: #fff;
+    
+  }
+</style>
+
+
+<style>
+  .panel--1594829074706 img {
+    margin: 0 0 0 0;
+  }
+  .panel--1594829074706 .btn {
+    margin: 0 0 0 0;
+  }
+</style>
+
+<div class="panel panel--light panel--1594829074706" style="text-align: left" kjb-settings-id="sections_product_sidebar_blocks_1594829074706_settings_background_color">
+  
+  <div class="panel__body">
+    
+      <h6 class="panel__heading" kjb-settings-id="sections_product_sidebar_blocks_1594829074706_settings_heading">How To Become An Aligned Ambassador</h6>
+    
+    <div class="panel__copy" kjb-settings-id="sections_product_sidebar_blocks_1594829074706_settings_content"><p>As Aligned Master's, I am gifting you your Aligned Ambassador Membership.&nbsp;</p>
+<p>Let's build our community together!&nbsp;</p></div>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  /*============================================================================
+    #Individual CTA Style
+  ==============================================================================*/
+  .btn--solid.btn--1594829074706 {
+    background: #e67e22 !important;
+    border-color: #e67e22 !important;
+    color: #fff !important;
+  }
+  .btn--solid.btn--1594829074706:hover {
+    color: #fff !important;
+  }
+  .btn--outline.btn--1594829074706 {
+    border-color: #e67e22 !important;
+    color: #e67e22 !important;
+  }
+  .btn--outline.btn--1594829074706:hover {
+    color: #e67e22 !important;
+  }
+</style>
+<a href="https://alignedperformance.clickfunnels.com/ambassadorw" class="btn btn-cta btn--auto btn--solid btn--small btn--1594829074706" data-num-seconds="" id="" kjb-settings-id="sections_product_sidebar_blocks_1594829074706_settings_btn_action" target="_blank">Click Here To Register</a>
+
+    
+  </div>
+</div>
+
+        
+    
+  </div>
+
+
+</div>
+    </div>
+  </div>
+</div>
+          
+            <div id="section-footer" data-section-id="footer"><!-- Footer Variables -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- KJB Settings Variables -->
+
+
+
+
+
+<style>
+  .footer {
+    background: #272d34;
+  }
+  
+</style>
+
+
+
+  
+    <style>
+      .container--main {
+        background-color: #272d34;
+      }
+    </style>
+  
+  <footer class="footer footer--dark footer--left" kjb-settings-id="sections_footer_settings_background_color">
+    <div class="container">
+      <div class="footer__text-container">
+        
+        
+          <span kjb-settings-id="sections_footer_settings_copyright" class="footer__copyright">&copy; 2021 DASH Enterprises, Inc</span>
+        
+        
+        
+          <div kjb-settings-id="sections_footer_settings_menu" class="footer__menu">
+            
+              <a class="footer__menu-item" href="https://dr-alok-trivedi.mykajabi.com/pages/terms">Terms</a>
+            
+              <a class="footer__menu-item" href="https://dr-alok-trivedi.mykajabi.com/pages/privacy-policy">Privacy</a>
+            
+          </div>
+        
+      </div>
+      <!-- Section Variables -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- KJB Settings Variables -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .footer .social-icons__icon,
+  .footer .social-icons__icon:hover {
+    color: #ffffff;
+  }
+  .footer .social-icons--round .social-icons__icon ,
+  .footer .social-icons--square .social-icons__icon {
+    background-color: #e67e22;
+  }
+</style>
+
+
+  <div class="social-icons social-icons--none social-icons--left">
+    <div class="social-icons__row">
+      
+        <a class="social-icons__icon fa fa-facebook" href="https://www.facebook.com/groups/alignedmastery/" kjb-settings-id="sections_footer_settings_social_icon_link_facebook"></a>
+      
+      
+        <a class="social-icons__icon fa fa-twitter" href="https://www.twitter.com/draloktrivedi" kjb-settings-id="sections_footer_settings_social_icon_link_twitter"></a>
+      
+      
+        <a class="social-icons__icon fa fa-instagram" href="https://www.instagram.com/draloktrivedi/" kjb-settings-id="sections_footer_settings_social_icon_link_instagram"></a>
+      
+      
+        <a class="social-icons__icon fa fa-youtube" href="https://www.youtube.com/channel/UCf6D1A8xbgNoWp3ofGO23sA" kjb-settings-id="sections_footer_settings_social_icon_link_youtube"></a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+  </div>
+
+
+    </div>
+  </footer>
+
+
+</div>
+          
+        </div>
+      </div>
+      
+    </div>
+
+    <!-- Javascripts ================================================== -->
+    <script src="https://kajabi-app-assets.kajabi-cdn.com/assets/core-0d31c023bb4742d1616865df3a8c242c36c067e95a112e3cb086b391896264ba.js"></script>
+    <script charset='ISO-8859-1' src='https://fast.wistia.com/assets/external/E-v1.js'></script>
+    <script charset='ISO-8859-1' src='https://fast.wistia.com/labs/crop-fill/plugin.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+    <script src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/816099/assets/scripts.js?16183573338219972"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.8/js/tether.min.js"></script><!-- Tether for Bootstrap -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js" integrity="sha384-VjEeINv9OSwtWFLAtmc4JCtEJXXBub00gtSnszmspDLCtC0I4z4nqz7rEFbIZLLU" crossorigin="anonymous"></script>
+  </body>
+</html>
